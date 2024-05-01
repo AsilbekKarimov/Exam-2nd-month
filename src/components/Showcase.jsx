@@ -33,7 +33,7 @@ const Swipe = () => {
         <Swiper
           slidesPerView={1}
           spaceBetween={30}
-          autoplay={{ delay: 1000 }}
+          autoplay={{ delay: 1500 }}
           loop={true}
           pagination={{
             clickable: true,
